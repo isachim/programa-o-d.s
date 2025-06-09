@@ -1,1 +1,3 @@
-extrato_url = extratorURL()
+extrato_url = extratorURL(https://bytebank.com/cambio?moeda0rigem=real)
+valor_quantidade = extrator_url.get_valor_parametro("quantidade")
+print("valor_quantidade")
